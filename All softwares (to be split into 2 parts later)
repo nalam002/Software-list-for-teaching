@@ -4,19 +4,19 @@ Need to change the categories
 Video Recording:
 LOOM: Very simple, free if signing up with University email
 OBS: Slightly difficult but much more options and youtube tutorials
-Bandicam: Free version has watermark, Easy
-Xbox game bar: comes with windows
+Bandicam: Free version has watermark & 10 minute limit, Easy but be careful when recording with voice
+Xbox game bar: comes with windows, unstable
 Microsoft powerpoint
 
 Video Editor:
 AVIDemux: Limited function but quick
-Videopad
+Videopad 
 Video Editor: Comes with Photos app on Windows 
 Lightworks: Easy, lightweight but needs weekly registering
 
 Audio:
-Audacity (Chris's compressor settings:
-Peace + Equalizer APO
+Audacity (Chris's compressor settings):
+Peace + Equalizer APO for external mics on win10
 
 
 ActivePresenter - Lots of options but slightly slow on AIUB laptop
@@ -39,8 +39,6 @@ Not friendly https://easyeda.com/
 To draw on screen:
 ppInk
 gInk
-
-
 Pointofix
 Epic Pen
 ZoomIt
@@ -50,6 +48,12 @@ Research:
 Codeblocks: Free C IDE, GUI
 MATLAB: Paid
 tcc compiler
+
+
+Text editor
+Atom: tons of packages but confusing, supposedly allows input when executing code with the right package
+Sublime text: nagware but good
+Notepad++: Needs custom theme to look good
 
 
 RF Environment Modeling: 
