@@ -13,28 +13,17 @@ AVIDemux: Limited function but quick
 Videopad 
 Video Editor: Comes with Photos app on Windows 
 Lightworks: Easy, lightweight but needs weekly registering
-
-Audio:
-Audacity (Chris's compressor settings):
-Peace + Equalizer APO for external mics on win10
-
-
 ActivePresenter - Lots of options but slightly slow on AIUB laptop
 
-Flowchart/Circuit drawer:
-draw.io: Available both online and as download
-
-Physical Circuit simulation on breadboard
-TinkerCAD: Online only, also features 3D design
-Fritzing: Offline, less advanced than TinkerCAD
-
-Regular simulation:
-Falstad Java http://falstad.com/circuit/circuitjs1.zip 
-(Physics ones https://www.falstad.com/mathphysics.html)
-Online http://lushprojects.com/circuitjs/circuitjs.html
-
-Not friendly https://easyeda.com/
-
+Audio:
+Audacity (Chris's compressor settings): https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/
+Recommended Settings:
+Compression Ratio 0.85
+Compression hardness 0.5
+Floor -32
+Noise gate falloff 2 or 4
+Maximum amplitude 0.95
+Peace + Equalizer APO for external mics on win10
 
 To draw on screen:
 ppInk
@@ -43,23 +32,5 @@ Pointofix
 Epic Pen
 ZoomIt
 
-Research:
-
-Codeblocks: Free C IDE, GUI
-MATLAB: Paid
-tcc compiler
 
 
-For coding
-Text editor
-Atom: tons of packages but confusing, supposedly allows input when executing code with the right package
-Sublime text: nagware but good
-Notepad++: Needs custom theme to look good
-
-Extra
-https://codebeautify.org/jsonviewer
-paramiko/netmiko
-Qemu emulator
-
-RF Environment Modeling: 
-gprMax
