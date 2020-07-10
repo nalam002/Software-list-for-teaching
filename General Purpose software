@@ -18,11 +18,7 @@ ActivePresenter - Lots of options but slightly slow on AIUB laptop
 Audio:
 Audacity (Chris's compressor settings): https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/
 Recommended Settings:
-Compression Ratio 0.85
-Compression hardness 0.5
-Floor -32
-Noise gate falloff 2 or 4
-Maximum amplitude 0.95
+Compression Ratio 0.85, Compression hardness 0.5, Floor -32, Noise gate falloff 2 or 4, Maximum amplitude 0.95
 Peace + Equalizer APO for external mics on win10
 
 To draw on screen:
