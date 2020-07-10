@@ -1,0 +1,31 @@
+Research:
+MATLAB (Paid)
+RF Environment Modeling: 
+gprMax
+
+For coding
+Codeblocks: Free C IDE, GUI
+lightweight tcc compiler for C
+Text editor
+Atom: tons of packages but confusing, supposedly allows input when executing code with the right package
+Sublime text: nagware but good
+Notepad++: Needs custom theme to look good
+
+Extra
+https://codebeautify.org/jsonviewer
+paramiko/netmiko
+Qemu emulator
+
+Flowchart/Circuit drawer:
+draw.io: Available both online and as download
+
+Physical Circuit simulation on breadboard
+TinkerCAD: Online only, also features 3D design
+Fritzing: Offline, less advanced than TinkerCAD
+
+Regular simulation:
+Falstad Java http://falstad.com/circuit/circuitjs1.zip 
+(Physics ones https://www.falstad.com/mathphysics.html)
+Online http://lushprojects.com/circuitjs/circuitjs.html
+
+Not friendly https://easyeda.com/
