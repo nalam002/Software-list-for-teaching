@@ -3,6 +3,19 @@ https://github.com/MrS0m30n3/youtube-dl-gui/releases
 https://github.com/AlexxEG/YouTube-Downloader/releases/ (not working anymore)
 https://clipgrab.org/  (no playlist, crapware extra)
 
+Video repair:
+http://grauonline.de/cms2/?page_id=5#download
+Text version:
+Copy source file so there are two versions of it called "v1.mp4" and "v2.mp4".
+Open command prompt and do the following commands to graft the second copy onto the first, so that the half of the video that will be repaired is actually the entirety of the original:
+cd /d [directory of video files]
+copy/b v1.mp4+v2.mp4
+Run v1.mp4 through Video Repair Tool, using a normally-functioning clip as the reference.
+Confirm that repaired video is fully operational. If it is, then you can delete v1.mp4 and v2.mp4.
+If there are any weird bugs (Media player not knowing how long it is, video editor not recognizing it), running the repaired file through HandBrake should do the trick.
+
+
+
 Online Plagiarism Checker 
 100%
 https://searchenginereports.net/plagiarism-checker
