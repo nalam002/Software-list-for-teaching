@@ -1,3 +1,7 @@
+https://www.reddit.com/r/AskElectronics/wiki/index/
+https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
+
+
 Research:
 MATLAB (Paid)
 RF Environment Modeling: 
@@ -27,8 +31,14 @@ TinkerCAD: Online only, also features 3D design
 Fritzing: Offline, less advanced than TinkerCAD
 
 Regular simulation:
-Falstad Java http://falstad.com/circuit/circuitjs1.zip 
+Falstad Java https://falstad.com/circuit/offline/circuitjs1-win.zip
 (Physics ones https://www.falstad.com/mathphysics.html)
 Online http://lushprojects.com/circuitjs/circuitjs.html
 
 Not friendly https://easyeda.com/
+
+EM field simulation:
+https://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Electric-Field-Lines/Electric-Field-Lines-Interactive
+https://emanim.szialab.org/index.html
+http://hsilomedus.me/wp-content/uploads/d3electricField/electricField.html
+https://www.didaktikonline.physik.uni-muenchen.de/
